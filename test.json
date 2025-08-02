@@ -1,0 +1,1728 @@
+{
+   "5_o_Clock_Shadow": {
+    "description": "Light stubble along the jaw and cheeks, resembling the early stage of beard growth.",
+    "importance": "Defines jawline, adds masculine ruggedness, and gives a mature and structured appearance.",
+    "how_to_improve": [
+      "Use a stubble trimmer set to 1 - 3 mm to maintain consistent length.",
+      "Trim neckline and cheek line regularly for a clean outline.",
+      "Exfoliate the skin twice a week to prevent ingrown hairs.",
+      "Apply beard oil or moisturizer to soften stubble and reduce itchiness.",
+      "Schedule grooming sessions every 2 - 3 days to maintain sharpness."
+    ],
+    "if_absent": "If facial hair growth is sparse or patchy, one can work on skin health, consider derma-rolling or biotin supplements (after consulting a doctor), or keep a clean-shaven look and enhance jaw definition via weight loss or contouring.",
+    "related_features": {
+      "Goatee": {
+        "importance": "Accentuates the chin and creates visual balance in the lower face.",
+        "how_to_improve": [
+          "Keep goatee well-defined using a precision trimmer.",
+          "Maintain symmetry on both sides of the chin.",
+          "Trim every few days to maintain a sharp shape.",
+          "Use beard balm to hold the shape in place.",
+          "Blend it into 5-o'clock shadow for a seamless look."
+        ],
+        "if_absent": "A clean-shaven face can be maintained, or focus on enhancing jawline definition through facial exercises."
+      },
+      "Mustache": {
+        "importance": "Frames the upper lip and enhances expressiveness.",
+        "how_to_improve": [
+          "Use fine scissors to trim stray hairs.",
+          "Apply mustache wax for control and shape.",
+          "Keep the area above the lip line clean-shaven.",
+          "Brush daily to train growth direction.",
+          "Match the style to your face shape—thinner for smaller faces, thicker for wider ones."
+        ],
+        "if_absent": "Use expressive grooming elsewhere like eyebrows or jawline. Avoid overemphasis on lips with heavy lip colors."
+      },
+      "Sideburns": {
+        "importance": "Acts as a transition between head hair and facial hair.",
+        "how_to_improve": [
+          "Align with the mid-ear or bottom ear depending on face shape.",
+          "Keep both sides symmetrical.",
+          "Fade sideburns into hairstyle or beard.",
+          "Clean the edges with a trimmer or razor.",
+          "Maintain weekly grooming to avoid scruffy appearance."
+        ],
+        "if_absent": "Consider clean fade from temple to jaw, or use fade hairstyle to balance."
+      },
+      "Double_Chin": {
+        "importance": "Can obscure jawline definition and add perceived weight to the face.",
+        "how_to_improve": [
+          "Perform chin and neck tightening exercises daily.",
+          "Maintain a healthy body weight and reduce excess body fat.",
+          "Ensure proper posture when sitting or taking photos.",
+          "Stay hydrated and reduce salt to avoid water retention.",
+          "Use contouring makeup techniques to shadow under the jaw."
+        ],
+        "if_absent": "Work on maintaining jawline strength with facial toning; even without double chin, poor posture or puffiness can reduce impact."
+      },
+      "Receding_Hairline": {
+        "importance": "Shifts facial proportions and can affect how facial hair balances the look.",
+        "how_to_improve": [
+          "Consult dermatologist for minoxidil or finasteride options.",
+          "Use volumizing hairstyles to cover thinning.",
+          "Avoid tight hairstyles that pull hair back.",
+          "Massage scalp with oils to increase blood flow.",
+          "Maintain stress-free routines and sleep well."
+        ],
+        "if_absent": "If hairline is intact, focus on maintaining it and balance it with facial hair. Use hair to frame the forehead."
+      }
+    }
+  },
+
+  "Bags_Under_Eyes": {
+    "description": "Puffy or dark regions beneath the eyes, often associated with fatigue or aging.",
+    "importance": "Makes a person appear tired, older, or unhealthy even when well-rested.",
+    "how_to_improve": [
+      "Maintain consistent 7–9 hours of sleep every night.",
+      "Use cold compress or chilled spoons in the morning to reduce puffiness.",
+      "Apply eye creams containing caffeine, hyaluronic acid, or retinol.",
+      "Elevate head during sleep to avoid fluid retention under eyes.",
+      "Stay hydrated and reduce salt intake."
+    ],
+    "if_absent": "If this feature is not present, highlight bright and vibrant eye area with subtle makeup or proper lighting for photos to emphasize alertness.",
+    "related_features": {
+      "Rosy_Cheeks": {
+        "importance": "Adds healthy flush and can distract from under-eye shadows.",
+        "how_to_improve": [
+          "Apply natural blush to the apples of the cheeks.",
+          "Stay hydrated and engage in light cardio to promote circulation.",
+          "Use cream-based blushes for dewy finish.",
+          "Eat antioxidant-rich foods (like berries) to boost natural glow.",
+          "Practice facial massage to stimulate cheek area."
+        ],
+        "if_absent": "Use warm-toned makeup or highlight cheekbones to fake a healthy glow."
+      },
+      "Pale_Skin": {
+        "importance": "May make dark circles and bags stand out more prominently.",
+        "how_to_improve": [
+          "Use tinted moisturizer or light foundation to balance tone.",
+          "Consume iron-rich foods if paleness is linked to deficiency.",
+          "Get short daily exposure to sunlight (Vitamin D).",
+          "Avoid over-exfoliation to prevent skin thinning.",
+          "Apply color-correctors under eyes before concealer."
+        ],
+        "if_absent": "With a warmer skin tone, maintain brightness with sunscreen and hydrating creams."
+      },
+      "Smiling": {
+        "importance": "Lifts cheek muscles and naturally brightens under-eye region.",
+        "how_to_improve": [
+          "Practice mirror smiling daily to enhance control.",
+          "Engage in eye-muscle exercises (like squeezing shut and opening wide).",
+          "Ensure teeth are well cared for to confidently smile.",
+          "Use subtle makeup to draw attention to smile lines.",
+          "Smile in photos to reflect energy and hide tired eyes."
+        ],
+        "if_absent": "If smiling is avoided, focus on open eye expressions or natural eyebrow raises to convey alertness."
+      },
+      "Chubby": {
+        "importance": "Increased facial fat can cause fluid retention around eyes.",
+        "how_to_improve": [
+          "Maintain regular cardio and a clean diet to reduce overall facial fat.",
+          "Cut down refined sugars and excess carbs.",
+          "Drink more water to flush out toxins.",
+          "Use face rollers to improve lymphatic drainage.",
+          "Avoid alcohol, which can lead to puffiness."
+        ],
+        "if_absent": "Ensure not to look too gaunt—maintain fullness in cheeks for youthfulness."
+      },
+      "High_Cheekbones": {
+        "importance": "Draws visual attention away from the under-eye area.",
+        "how_to_improve": [
+          "Use contouring under cheekbones to enhance depth.",
+          "Smile and hold expression to locate natural lift points.",
+          "Facial massage and gua sha can help define cheekbones.",
+          "Apply highlighter just above the cheekbone ridge.",
+          "Practice facial yoga focused on cheek lifting."
+        ],
+        "if_absent": "Work on jaw and chin definition to give similar lift; use visual illusion through makeup."
+      }
+    }
+  },
+
+  "Bald": {
+    "description": "Complete or near-complete loss of scalp hair.",
+    "importance": "Significantly alters head shape, symmetry, and facial balance.",
+    "how_to_improve": [
+      "Consider embracing bald look with confidence—clean shave or polish the scalp.",
+      "Explore scalp micropigmentation to simulate hair follicles.",
+      "Try prescription treatments like minoxidil or finasteride (only under doctor supervision).",
+      "Wear well-fitted hats or sunglasses to balance the look.",
+      "Maintain facial hair or groomed brows to shift attention from scalp."
+    ],
+    "if_absent": "If baldness is not present but hair is thinning, focus on thickening techniques. If baldness is unavoidable, enhance features like beard, eyebrows, jawline to maintain aesthetic symmetry.",
+    "related_features": {
+      "Receding_Hairline": {
+        "importance": "Often precedes full baldness; affects framing of the face.",
+        "how_to_improve": [
+          "Avoid tight hats or hair ties that pull hairline.",
+          "Massage scalp to stimulate follicles.",
+          "Use hair growth serums with natural ingredients.",
+          "Reduce stress through meditation or breathing exercises.",
+          "Consider short hairstyles that make hairline less visible."
+        ],
+        "if_absent": "Keep hairline sharp and clean; use forehead styles to balance proportions."
+      },
+      "Goatee": {
+        "importance": "Gives definition and focal point to face when top of head lacks hair.",
+        "how_to_improve": [
+          "Define chin area precisely to create structure.",
+          "Keep length slightly longer for contrast.",
+          "Fade edges smoothly into cheek if desired.",
+          "Match color with natural tone or dye if patchy.",
+          "Use oil to add shine and softness."
+        ],
+        "if_absent": "Grow stubble or enhance eyebrow grooming to maintain facial interest."
+      },
+      "5_o_Clock_Shadow": {
+        "importance": "Adds facial texture and contrast when scalp is bald.",
+        "how_to_improve": [
+          "Use a beard trimmer every 2 days for consistency.",
+          "Keep neckline tidy to avoid unkempt look.",
+          "Moisturize skin to avoid flakiness under stubble.",
+          "Use toner to prevent acne around beard line.",
+          "Choose beard style to complement head shape."
+        ],
+        "if_absent": "If no facial hair, emphasize other areas like eyewear, jawline, or fashion accessories."
+      },
+      "Mustache": {
+        "importance": "Balances upper face, draws attention to central features.",
+        "how_to_improve": [
+          "Keep shape aligned with nose and lip corners.",
+          "Avoid letting it grow over upper lip.",
+          "Comb daily to train direction.",
+          "Use wax for styling (handlebar, classic, etc.).",
+          "Match length with beard if present."
+        ],
+        "if_absent": "Use bold eyewear or expressive eyes to center attention upward."
+      },
+      "Sideburns": {
+        "importance": "Bridges gap between hair (if any) and facial structure.",
+        "how_to_improve": [
+          "Align with ear midpoint or lobe.",
+          "Fade into beard or keep standalone for structure.",
+          "Clean edges regularly.",
+          "Match length with beard or scalp shave.",
+          "Keep both sides symmetrical."
+        ],
+        "if_absent": "Consider head-to-face transition styles, or clean sides with fade for uniform look."
+      }
+    }
+  },
+  "Big_Nose": {
+    "description": "A nose that appears larger in width or projection.",
+    "importance": [
+      "The nose is the central anchor of the face and can dominate facial balance.",
+      "Its size and projection can overshadow nearby features like eyes or lips.",
+      "Facial symmetry often hinges on the nose's proportion to other features.",
+      "In profile, a large nose can exaggerate or flatten the appearance of the chin or forehead.",
+      "Photographic angles and lighting often emphasize the nose, affecting visual presence."
+    ],
+    "how_to_improve": [
+      "Use makeup contouring: darken the sides of the nose and highlight the bridge to slim visually.",
+      "Draw attention away from the nose with bold brows, eye makeup, or expressive glasses.",
+      "Maintain a well-groomed beard or mustache to shift the visual anchor lower.",
+      "Choose hairstyles with side volume (e.g., layers, waves) to balance facial proportions.",
+      "Work on confident posture and expressions, such as a relaxed smile, to draw focus to the full face."
+    ],
+    "if_absent": "If you have a smaller or balanced nose, avoid over-contouring or drawing unnecessary attention. Instead, use this balance to experiment with bold styles around the eyes, lips, or beard for impact.",
+    "related_features": {
+      "Pointy_Nose": {
+        "importance": [
+          "Adds angular sharpness that draws attention to the nose tip.",
+          "Can throw off facial softness or symmetry if unbalanced.",
+          "Makes profile views more prominent in photos or videos.",
+          "Can elongate the appearance of the face.",
+          "May overshadow softer features like lips or cheeks."
+        ],
+        "how_to_improve": [
+          "Blend contouring around the tip to reduce visual sharpness.",
+          "Avoid overly harsh angles in hair or accessories near the face.",
+          "Use rounded glasses or earrings to soften the overall structure.",
+          "Try highlighter down the bridge without exaggerating the tip.",
+          "Practice facial poses that slightly tilt the head for softer angles."
+        ],
+        "if_absent": "If your nose isn't pointy, you can embrace softer styles and rounded facial accessories to maintain that soft appearance."
+      },
+      "Oval_Face": {
+        "importance": [
+          "Provides naturally balanced symmetry, helpful for offsetting nose size.",
+          "Oval faces are forgiving and adaptable in styling choices.",
+          "A large nose appears less dominant when the rest of the face is proportional.",
+          "Allows flexibility with hairstyles that can balance nose prominence.",
+          "Ideal for experimenting with contour and highlight techniques."
+        ],
+        "how_to_improve": [
+          "Add volume to the sides of hair to draw attention laterally.",
+          "Use side parts or asymmetrical styles to shift central focus.",
+          "Try angular beards or jawline definition to reinforce face edges.",
+          "Avoid tightly pulled hairstyles that exaggerate centerline.",
+          "Play with statement eyewear to create new facial focal points."
+        ],
+        "if_absent": "If your face is more round, square, or long, tailor your hairstyles and facial hair to create an oval illusion (e.g., longer hair on top, trimmed sides)."
+      },
+      "Bushy_Eyebrows": {
+        "importance": [
+          "Redirects focus upward from the nose.",
+          "Creates a visual frame around the eyes, balancing facial weight.",
+          "Full brows add dimension and presence.",
+          "Can harmonize with other strong features like a larger nose or chin.",
+          "Lends a youthful, expressive look."
+        ],
+        "how_to_improve": [
+          "Trim strays and shape subtly to retain volume while refining.",
+          "Brush brows upward for a lifted appearance.",
+          "Fill in sparse areas with brow pencil or powder.",
+          "Keep arch soft to avoid exaggerating nose length.",
+          "Match tone with hair for uniformity."
+        ],
+        "if_absent": "If eyebrows are sparse or light, tint them or use makeup to build them up. Consider glasses or lashes to help reframe the eye area."
+      },
+      "Smiling": {
+        "importance": [
+          "Lifts the cheeks and pulls attention away from the nose.",
+          "Creates warmth and approachability, reducing focus on individual features.",
+          "Activates eye area, drawing attention upward.",
+          "Improves perceived symmetry and confidence.",
+          "Balances facial proportions in both photos and real interactions."
+        ],
+        "how_to_improve": [
+          "Practice mirror smiles to find your most flattering expression.",
+          "Train cheek muscles with daily smile exercises.",
+          "Use lip balm or gloss to enhance mouth as a visual draw.",
+          "Smile with eyes slightly widened for balanced focus.",
+          "Use teeth-revealing smiles to further widen the facial focal point."
+        ],
+        "if_absent": "If you don’t smile often due to habit or self-consciousness, start practicing micro-smiles in daily life. Gradually build expressiveness through social or mirror exercises."
+      },
+      "High_Cheekbones": {
+        "importance": [
+          "Defines the midface and offsets a strong nose.",
+          "Lends structure and visual lift to the face.",
+          "Enhances three-dimensionality, drawing focus outward.",
+          "Balances nose projection from side views.",
+          "Elevates beauty perception across cultures."
+        ],
+        "how_to_improve": [
+          "Use highlighter on upper cheekbones to catch light.",
+          "Contour just below the bone to make them pop.",
+          "Try gua sha or facial massage to improve definition.",
+          "Keep skin hydrated for plumpness and elasticity.",
+          "Smile broadly to activate cheek area naturally."
+        ],
+        "if_absent": "If cheekbones are flat or less defined, compensate with blush placement, highlighter, or sculpted beard styles to create artificial lift."
+      }
+    }
+  },
+
+  "Black_Hair": {
+    "description": "Dark pigmented hair on head or facial area.",
+    "importance": [
+      "Dark hair creates strong contrast against most skin tones, drawing focus.",
+      "It frames the face and affects how features are perceived in terms of brightness and sharpness.",
+      "Represents youthfulness and often communicates vitality when well-maintained.",
+      "Can make thin areas appear fuller when dense and healthy.",
+      "Affects choice of brow color, facial hair style, and even fashion."
+    ],
+    "how_to_improve": [
+      "Use sulfate-free, moisturizing shampoos to preserve color and shine.",
+      "Deep-condition regularly to prevent dryness and breakage.",
+      "Avoid harsh sunlight or use UV-protective sprays to maintain pigment richness.",
+      "Trim regularly to remove split ends and maintain a sharp silhouette.",
+      "Complement with proper eyebrow and beard grooming to harmonize tones."
+    ],
+    "if_absent": "If you don’t have naturally black hair, but want the depth or sharpness it brings, you can dye your hair professionally. If not an option, focus on contrast through facial hair, eyebrows, or accessories like glasses or hats.",
+    "related_features": {
+      "Gray_Hair": {
+        "importance": [
+          "Signals aging or maturity, especially when mixed with dark hair.",
+          "Changes overall texture and softness of hairstyle.",
+          "Gray around temples can alter face framing subtly.",
+          "Might require new grooming or styling habits.",
+          "Affects perceived energy and vitality."
+        ],
+        "how_to_improve": [
+          "Use color-depositing conditioners to tone down yellowing.",
+          "Trim regularly to avoid wiry strands sticking out.",
+          "Apply leave-in conditioners for softness.",
+          "Go for blended or ombré dye instead of full coverage.",
+          "Wear color-coordinated clothing to balance the effect."
+        ],
+        "if_absent": "If gray hasn’t appeared yet, maintain hair health with proper sleep, nutrition, and stress reduction to delay onset."
+      },
+      "Bald": {
+        "importance": [
+          "The contrast from full black hair to baldness is visually significant.",
+          "Impacts identity and how youthful or mature someone appears.",
+          "Removes the upper face frame, shifting focus elsewhere.",
+          "May emphasize other features like nose, ears, or eyebrows.",
+          "Affects perceived symmetry of the head and jawline."
+        ],
+        "how_to_improve": [
+          "Embrace the bald look with clean grooming and moisturized scalp.",
+          "Grow facial hair for contrast and structure.",
+          "Use hats or glasses to reintroduce head framing.",
+          "Balance with strong eyebrows or beard.",
+          "Keep scalp even-toned to prevent patches from standing out."
+        ],
+        "if_absent": "If not bald, maintain black hair's vibrancy with care products; if hair is thinning, avoid heavy dyes and use volumizing products."
+      },
+      "Bushy_Eyebrows": {
+        "importance": [
+          "Match well with dark hair, creating cohesive facial framing.",
+          "Add intensity to eyes and upper face.",
+          "Support balance against strong hair colors.",
+          "Can distract from aging signs or imbalances below.",
+          "Anchor the eyes in the overall color scheme."
+        ],
+        "how_to_improve": [
+          "Brush daily to train growth direction.",
+          "Fill sparse areas with dark brown or black pencil.",
+          "Trim edges for defined borders.",
+          "Avoid over-plucking to preserve density.",
+          "Use clear gel to keep hairs in place."
+        ],
+        "if_absent": "Use pencils or brow tinting to match head hair; if you wear glasses, opt for bold frames to mimic the brow line."
+      },
+      "Wavy_Hair": {
+        "importance": [
+          "Adds texture, making black hair appear more voluminous.",
+          "Creates visual flow across the head.",
+          "Balances sharp contrast with softness.",
+          "Catches light more dynamically than straight hair.",
+          "Provides more style variety (slicked back, tousled, etc.)."
+        ],
+        "how_to_improve": [
+          "Use curl creams or sea salt sprays to define waves.",
+          "Avoid heavy products that weigh waves down.",
+          "Diffuse when blow-drying to preserve pattern.",
+          "Moisturize ends to reduce frizz.",
+          "Experiment with wave direction for best framing."
+        ],
+        "if_absent": "If your hair is straight or very curly, consider a perm or heat styling for temporary waves. Alternatively, focus on parting and volume."
+      },
+      "Sideburns": {
+        "importance": [
+          "Visually connects hair with facial hair.",
+          "Can help define cheek structure.",
+          "Offers a chance to balance long or short hairstyles.",
+          "Dark sideburns provide contour and edge.",
+          "Affects perceived symmetry and grooming quality."
+        ],
+        "how_to_improve": [
+          "Keep length and width symmetrical.",
+          "Fade into beard or clean trim depending on style.",
+          "Match tone to main hair color.",
+          "Moisturize to prevent flakiness.",
+          "Use razors or trimmers for clean lines."
+        ],
+        "if_absent": "Use beard fades or taper fades that blend naturally with your hairstyle to hide the absence of defined sideburns."
+      }
+    }
+  },
+  "Chubby": {
+    "description": "Full or rounded facial contours.",
+    "importance": [
+      "Softens overall facial definition, especially in the jawline and cheek areas.",
+      "Can obscure natural bone structure like cheekbones or jaw angle.",
+      "Creates a youthful or baby-faced appearance, which may not align with desired maturity.",
+      "Affects how hairstyles, glasses, and facial hair sit or look on the face.",
+      "Increases the visual width of the face, potentially unbalancing certain face shapes."
+    ],
+    "how_to_improve": [
+      "Engage in consistent cardiovascular exercise to reduce overall body fat.",
+      "Practice facial yoga or targeted exercises to stimulate circulation and tone muscles.",
+      "Adopt a low-sodium, whole-food diet to reduce water retention and puffiness.",
+      "Use contouring makeup or beard shaping to define the cheekbones and jawline.",
+      "Select hairstyles that add vertical height or volume on top to elongate the face visually."
+    ],
+    "if_absent": "If facial roundness is not present but the face looks too angular, soften the appearance with fuller hairstyles, rounded glasses, or subtle blush to add fullness to the cheeks.",
+    "related_features": {
+      "Double_Chin": {
+        "importance": [
+          "Adds to the lower facial fullness, exaggerating the round appearance.",
+          "Blurs the distinction between neck and jawline.",
+          "Often accompanies chubby cheeks due to shared fat distribution.",
+          "Influences perceived weight even in slim individuals.",
+          "Draws focus downward, affecting facial symmetry."
+        ],
+        "how_to_improve": [
+          "Incorporate neck stretches and chin lifts into daily routine.",
+          "Adjust posture to prevent compression of the chin area.",
+          "Use gua sha or jade roller to reduce fluid retention under chin.",
+          "Maintain a healthy body weight through long-term lifestyle changes.",
+          "Shave or trim facial hair to create definition under the jaw."
+        ],
+        "if_absent": "If no double chin, use sharp jawline styling or neckline grooming to maintain contrast between the neck and jaw."
+      },
+      "High_Cheekbones": {
+        "importance": [
+          "Provide angular contrast to round cheeks.",
+          "Lift the face visually, giving a sculpted look.",
+          "Help balance facial symmetry when cheeks are fuller.",
+          "Act as natural light reflectors, enhancing facial aesthetics.",
+          "Make makeup or beard contouring more effective."
+        ],
+        "how_to_improve": [
+          "Use contour makeup to enhance cheekbone shadowing.",
+          "Apply highlighter above cheekbones for lift.",
+          "Massage cheek area to reduce bloating and improve blood flow.",
+          "Practice ‘fish face’ or puckering exercises to engage cheek muscles.",
+          "Choose hairstyles that pull hair away from the cheeks to reveal structure."
+        ],
+        "if_absent": "If cheekbones are not prominent, use light and shadow in grooming or makeup to simulate bone structure and add vertical emphasis."
+      },
+      "Oval_Face": {
+        "importance": [
+          "Oval face shape is considered proportionally ideal.",
+          "Chubby features may distort the natural oval contour into round or square.",
+          "Length-to-width ratio affects how facial features appear.",
+          "Impacts how accessories like glasses or hats complement the face.",
+          "Determines suitability for certain haircuts and styles."
+        ],
+        "how_to_improve": [
+          "Choose hairstyles that add vertical volume to elongate face shape.",
+          "Use facial hair to narrow the sides or lengthen the chin.",
+          "Avoid wide or blunt bangs that shorten the face.",
+          "Use vertical accessories like long earrings or rectangular glasses.",
+          "Apply contour along temples and under cheekbones to slim appearance."
+        ],
+        "if_absent": "If oval shape is not present, aim to recreate it visually through layering, contrast, and vertical accents in style."
+      },
+      "5_o_Clock_Shadow": {
+        "importance": [
+          "Creates depth and structure on otherwise soft or rounded faces.",
+          "Accentuates jawline and chin by adding shadow.",
+          "Reduces the appearance of puffiness through contrast.",
+          "Adds a masculine, mature edge to youthful facial shapes.",
+          "Serves as a flexible grooming style that adapts to facial volume."
+        ],
+        "how_to_improve": [
+          "Keep stubble at a uniform 1-2mm to ensure clean appearance.",
+          "Fade from cheeks to jawline for natural transition.",
+          "Use beard trimmer with guard to maintain even growth.",
+          "Moisturize and exfoliate to prevent ingrown hairs.",
+          "Shave neck clean to avoid bloated lower-face look."
+        ],
+        "if_absent": "If unable to grow stubble, focus on hair or eyewear choices that create visual lines or structure to balance fullness."
+      },
+      "Smiling": {
+        "importance": [
+          "Lifts the cheeks and makes roundness appear intentional and friendly.",
+          "Engages facial muscles, improving tone and definition over time.",
+          "Distracts from puffiness or double chin by elevating expression.",
+          "Creates positive emotional impact and social appeal.",
+          "Can offset heavy lower-face appearance by drawing focus to the eyes."
+        ],
+        "how_to_improve": [
+          "Practice smile exercises to activate cheek muscles.",
+          "Train yourself to smile in photos for natural appearance.",
+          "Pair with high cheekbone enhancements to lift expression.",
+          "Use lip balm or teeth whitening to enhance smile impact.",
+          "Take posture into account—smile looks better with upright neck."
+        ],
+        "if_absent": "If not naturally expressive, develop facial confidence through mirror practice or light acting techniques to strengthen expressiveness."
+      }
+    }
+  },
+
+  "Double_Chin": {
+    "description": "Layer of fat under the jawline.",
+    "importance": [
+      "Reduces jawline definition and masks bone structure.",
+      "Adds visual weight to the lower third of the face.",
+      "May create an aged or tired appearance even in young individuals.",
+      "Affects profile view significantly, impacting side angles in photos.",
+      "Can influence clothing choices like collars or scarves to hide the area."
+    ],
+    "how_to_improve": [
+      "Perform daily facial toning exercises like chin lifts and jaw clenches.",
+      "Adopt an upright sitting and walking posture to elongate neck line.",
+      "Follow a nutrient-dense diet with reduced sugar to support fat loss.",
+      "Use a gua sha, roller, or even ice packs to reduce water retention.",
+      "Trim or style facial hair to create a more angular jaw illusion."
+    ],
+    "if_absent": "If double chin is not present, maintain jawline definition through hydration, posture, and clean shaving or sharp grooming styles.",
+    "related_features": {
+      "Chubby": {
+        "importance": [
+          "Facial fat accumulation contributes directly to a visible double chin.",
+          "Full cheeks and soft jawline compound the round look.",
+          "Weight gain impacts both areas simultaneously.",
+          "Facial puffiness can mimic or exaggerate a double chin.",
+          "Emotional eating or hormonal shifts may affect both zones."
+        ],
+        "how_to_improve": [
+          "Focus on long-term fat loss through diet and cardio.",
+          "Apply cold compresses or face rollers to reduce facial bloating.",
+          "Hydrate consistently to flush excess sodium from the face.",
+          "Engage in yoga or facial massages to enhance lymphatic drainage.",
+          "Select hairstyles or necklines that elongate the face."
+        ],
+        "if_absent": "If chubbiness is not a concern, keep double chin minimized by focusing on neck posture and facial tone."
+      },
+      "Receding_Hairline": {
+        "importance": [
+          "Draws more attention to the lower face due to lack of hair on top.",
+          "Affects overall face length, making chin fat more prominent.",
+          "Changes visual weight balance of the face.",
+          "Can create awkward profile proportions without compensatory styling.",
+          "Highlights contrast between upper face and neck."
+        ],
+        "how_to_improve": [
+          "Style hair forward to mask hairline recession.",
+          "Use scalp microfibers or hair tattoos for volume illusion.",
+          "Wear accessories like hats or glasses to shift focus upward.",
+          "Maintain strong jawline grooming to restore balance.",
+          "Practice good posture to elongate the neck area."
+        ],
+        "if_absent": "If hairline is strong, maintain it to keep attention balanced across the face and reduce chin area prominence."
+      },
+      "5_o_Clock_Shadow": {
+        "importance": [
+          "Defines the jawline and chin boundary through subtle shading.",
+          "Adds visual separation between neck and face.",
+          "Balances facial structure when lower face lacks tone.",
+          "Creates a more masculine or mature aesthetic.",
+          "Softens the curve of a double chin by introducing texture."
+        ],
+        "how_to_improve": [
+          "Trim daily or every other day to maintain consistency.",
+          "Keep stubble sharp at jawline and clean below.",
+          "Match beard length with face shape to avoid emphasizing chin.",
+          "Use oil or toner to prevent irritation.",
+          "Experiment with fade effects for smoother transitions."
+        ],
+        "if_absent": "If stubble cannot be grown, enhance jawline with structured neckwear or angular glasses."
+      },
+      "Smiling": {
+        "importance": [
+          "Lifts the lower face and stretches neck muscles.",
+          "Temporarily masks double chin in photos.",
+          "Improves posture, which reduces neck sagging.",
+          "Adds emotional expression that can distract from physical features.",
+          "Promotes facial muscle engagement over time."
+        ],
+        "how_to_improve": [
+          "Practice smiling in front of a mirror to find your best angle.",
+          "Engage cheek muscles when smiling to lift face.",
+          "Use facial exercises involving smiles to tone muscles.",
+          "Smile while tilting head up slightly for better photo results.",
+          "Train yourself to smile more in daily life for habit-building."
+        ],
+        "if_absent": "If not expressive, rely on styling (e.g., V-neck shirts, open collars) to draw vertical lines and reduce chin prominence."
+      },
+      "Oval_Face": {
+        "importance": [
+          "Oval faces balance proportions, so double chin can disrupt harmony.",
+          "An ideal shape that can be lost when jaw definition fades.",
+          "Hairstyle choices for oval faces may not work with excess chin fat.",
+          "Facial accessories may sit differently depending on chin shape.",
+          "Symmetry and natural contours become more noticeable or distorted."
+        ],
+        "how_to_improve": [
+          "Style hair to add height and reduce horizontal width.",
+          "Trim sideburns or beard lines to restore oval structure.",
+          "Use angled makeup contours to elongate face.",
+          "Keep chin area clear of excess hair unless purposefully shaped.",
+          "Enhance cheekbones with color or facial workouts."
+        ],
+        "if_absent": "If not oval, focus on creating balance by adjusting top vs. bottom width through hair or beard styling."
+      }
+    }
+  },
+
+  "Eyeglasses": {
+    "description": "Frames and lenses worn to correct vision.",
+    "importance": [
+      "Draw immediate attention to the upper central area of the face.",
+      "Frame style and color can enhance or dull facial features.",
+      "Act as an accessory that communicates style and personality.",
+      "Can balance or exaggerate face shape depending on proportions.",
+      "Affect how features like eyebrows, nose, and cheekbones are perceived."
+    ],
+    "how_to_improve": [
+      "Choose frames that match your face shape—round for angular faces, angular for round faces.",
+      "Keep lenses clean and smudge-free to maintain polish.",
+      "Adjust nose pads to ensure correct height and alignment.",
+      "Select frame colors that complement skin tone and hair.",
+      "Rotate frame styles for different outfits or moods to avoid visual monotony."
+    ],
+    "if_absent": "If eyeglasses are not used, consider accessories like sunglasses or bold earrings to frame the face. Also, well-groomed brows and lashes can create similar facial structure.",
+    "related_features": {
+      "Smiling": {
+        "importance": [
+          "Enhances the warmth and approachability glasses add.",
+          "Improves overall expression and softens technical look.",
+          "Reduces rigidity by adding human emotion to the style.",
+          "Improves how cheek area interacts with frame placement.",
+          "Draws attention to the eyes naturally, improving connection."
+        ],
+        "how_to_improve": [
+          "Smile naturally while wearing different frames to see what flatters best.",
+          "Train yourself to smile with both lips and eyes (‘Duchenne smile’).",
+          "Use clear or lighter frames if your smile is subtle.",
+          "Try smiling with slightly tilted head for photos.",
+          "Practice smiling as part of a daily grooming routine."
+        ],
+        "if_absent": "If not naturally expressive, wear colorful or uniquely shaped frames to simulate energy and charm."
+      },
+      "Bushy_Eyebrows": {
+        "importance": [
+          "Eyebrows frame the glasses and contribute to upper face balance.",
+          "Bushy brows can overshadow or conflict with certain frame styles.",
+          "Help define expressions when glasses cover eye contours.",
+          "Influence how symmetrical or clean your face appears.",
+          "Contribute to how formal or casual your glasses appear."
+        ],
+        "how_to_improve": [
+          "Groom brows to sit clearly above or below frame line.",
+          "Use brow gel or pencil to add structure.",
+          "Trim stray hairs regularly for neatness.",
+          "Match brow tone to hair or frame for cohesion.",
+          "Keep both brows symmetrical to match the frames' alignment."
+        ],
+        "if_absent": "If eyebrows are sparse, use makeup, microblading, or thicker frames to restore facial structure."
+      },
+      "Oval_Face": {
+        "importance": [
+          "Supports a wide range of glasses styles due to proportional symmetry.",
+          "Naturally complements most frame shapes and sizes.",
+          "Frame misalignment can distort otherwise balanced proportions.",
+          "Aids in experimentation without overpowering facial harmony.",
+          "Face shape ensures glasses stay in place without awkward angles."
+        ],
+        "how_to_improve": [
+          "Try bold styles like aviators, cat-eye, or geometric frames.",
+          "Avoid frames that are too wide or narrow for your cheekbones.",
+          "Use colored lenses or arms to add character.",
+          "Ensure temples align with the cheekbone mid-point.",
+          "Rotate between different shapes to match moods or occasions."
+        ],
+        "if_absent": "If oval face shape isn't present, choose frames that simulate balance (e.g., wider tops for triangle shapes, wider bottoms for heart-shaped faces)."
+      },
+      "Bags_Under_Eyes": {
+        "importance": [
+          "Frames can conceal or draw attention away from under-eye puffiness.",
+          "The right style can improve perceived alertness.",
+          "Creates a barrier that interrupts shadows under eyes.",
+          "Helps reduce emphasis on dark circles when styled correctly.",
+          "Can be styled to visually lift sagging skin."
+        ],
+        "how_to_improve": [
+          "Use thick-rimmed frames to cast shadow strategically.",
+          "Pick lighter or translucent frames for a softer contrast.",
+          "Position frame bridge higher on the nose to lift visually.",
+          "Match frame color to skin undertone to avoid harshness.",
+          "Keep under-eye area moisturized and concealed for synergy."
+        ],
+        "if_absent": "If no bags, consider rimless or minimalist frames to highlight natural eye contours."
+      },
+      "Black_Hair": {
+        "importance": [
+          "Frame color interacts strongly with dark hair tones.",
+          "Contrasting frames can brighten or modernize the look.",
+          "Black hair anchors the top of the face visually.",
+          "Glasses can either enhance or clash with the hair’s shine and thickness.",
+          "Influences how formal or casual the overall appearance seems."
+        ],
+        "how_to_improve": [
+          "Try tortoiseshell or lighter acetate frames for contrast.",
+          "Use metallics (silver, gold) to highlight black hair undertones.",
+          "Avoid all-black frames unless they match skin tone well.",
+          "Style hair away from face to show off frame design.",
+          "Use frames with glossy finishes to match hair shine."
+        ],
+        "if_absent": "If hair is light or missing, use frame color to add structure and weight to the face."
+      }
+    }
+  },
+  "Goatee": {
+    "description": "Beard limited to the chin area.",
+    "importance": [
+      "Shapes and defines the lower face, especially the jawline and chin.",
+      "Adds visual weight to the bottom of the face, balancing long or oval face shapes.",
+      "Acts as a central focal point, drawing attention below the mouth.",
+      "Complements other facial hair like mustache and stubble to create a cohesive look.",
+      "Can help mask a double chin or create the illusion of a more angular chin."
+    ],
+    "how_to_improve": [
+      "Keep the chin area well-trimmed and symmetrical to maintain structure.",
+      "Shave cheeks and neck clean to make the goatee stand out.",
+      "Use beard oil to maintain softness and shine, avoiding wiry texture.",
+      "Outline edges with a trimmer or razor for sharp definition.",
+      "Match length and density with mustache or surrounding stubble for balance."
+    ],
+    "if_absent": "If a goatee is not present and the chin lacks definition, consider growing minimal stubble or using jawline-focused hairstyles. Alternatively, enhance cheekbones or wear bold glasses to shift focal balance.",
+    "related_features": {
+      "5_o_Clock_Shadow": {
+        "importance": [
+          "Creates a smooth transition between beard and skin.",
+          "Adds texture and visual contrast to clean-shaven areas.",
+          "Softens harsh edges of facial hair styles like the goatee.",
+          "Improves facial structure perception with subtle shadowing.",
+          "Can act as a fallback style if goatee is too sparse."
+        ],
+        "how_to_improve": [
+          "Use a trimmer set to 1-2mm for consistent stubble.",
+          "Blend fade from jawline to cheeks for seamless look.",
+          "Avoid patchy growth by maintaining hydration and exfoliation.",
+          "Shave neck clean for a tidy appearance.",
+          "Use a light facial oil to reduce dryness and flaking."
+        ],
+        "if_absent": "If no stubble, go for well-groomed clean-shaven look or grow fuller beard styles if possible."
+      },
+      "Mustache": {
+        "importance": [
+          "Balances the top part of the goatee and adds volume.",
+          "Defines upper lip area, enhancing mouth structure.",
+          "Can express personality through shape and length.",
+          "Completes the classic Van Dyke or circle beard styles.",
+          "Draws attention to central facial zone for symmetry."
+        ],
+        "how_to_improve": [
+          "Trim to the same length as goatee for uniformity.",
+          "Define lip line by shaving excess growth around edges.",
+          "Use wax to hold shape if mustache is long or styled.",
+          "Condition regularly to prevent split ends or wiry texture.",
+          "Clean under the nose to keep area sharp and hygienic."
+        ],
+        "if_absent": "If mustache is missing, opt for sharper goatee shapes or consider sunglasses to draw attention upward."
+      },
+      "Sideburns": {
+        "importance": [
+          "Visually connects hair (or scalp) to facial hair.",
+          "Frames the face and enhances symmetry.",
+          "Balances goatee by anchoring facial hair to the sides.",
+          "Can elongate or shorten the face depending on length.",
+          "Influences how neat or rugged the overall beard looks."
+        ],
+        "how_to_improve": [
+          "Trim to match the width or density of goatee.",
+          "Align sideburns with ear lobes for standard style.",
+          "Fade into goatee if growing a full chin strap.",
+          "Maintain even length on both sides.",
+          "Use precision trimmer to keep edges sharp."
+        ],
+        "if_absent": "Without sideburns, opt for a sharply defined goatee or clean fade to maintain facial structure."
+      },
+      "Double_Chin": {
+        "importance": [
+          "A goatee can either mask or emphasize fullness under the chin.",
+          "Focus on chin draws attention away from jawline fat pads.",
+          "Helps elongate the face when trimmed with sharp angles.",
+          "Adds structure in profiles, especially in side views.",
+          "Can subtly contour the lower face using shape and shadow."
+        ],
+        "how_to_improve": [
+          "Trim goatee into a pointed or boxed shape to define jaw.",
+          "Keep neck clean-shaven to avoid drawing attention to fat pads.",
+          "Fade beard length from chin outward to reduce bulk.",
+          "Use darker dye or shading to create slimming illusion.",
+          "Incorporate fitness and posture habits to reduce long-term appearance."
+        ],
+        "if_absent": "If no goatee and double chin is a concern, use high collars, structured jawline hairstyles, or facial contouring products to improve visual harmony."
+      },
+      "Bags_Under_Eyes": {
+        "importance": [
+          "Drawing focus to the chin can distract from tired eyes.",
+          "Beard shapes redirect visual interest downward.",
+          "A fuller goatee can balance heavier upper-face features.",
+          "Prevents eye puffiness from dominating the face's expression.",
+          "Complements eyeglasses or hairstyles that frame the eyes."
+        ],
+        "how_to_improve": [
+          "Grow a denser goatee style like a circle beard or anchor beard.",
+          "Keep upper face clean-shaven to emphasize beard contrast.",
+          "Moisturize and use concealer for eye bags while letting beard take lead.",
+          "Use lower-face accessories (e.g., earrings, necklace) for balance.",
+          "Match beard and hairstyle tones for cohesive visual direction."
+        ],
+        "if_absent": "If goatee is missing and eyes are puffy, shift focus with colored frames, lifted hairstyles, or subtle eye makeup."
+      }
+    }
+  },
+
+  "Gray_Hair": {
+    "description": "Silver or white hair strands.",
+    "importance": [
+      "Signals wisdom, maturity, and experience.",
+      "Creates natural contrast with skin tone and clothing.",
+      "Can make facial features more pronounced due to lack of color distraction.",
+      "Often changes texture and volume, affecting style.",
+      "Affects perceived age depending on grooming and context."
+    ],
+    "how_to_improve": [
+      "Use gloss treatments or anti-yellow shampoos to enhance silver tone.",
+      "Consider semi-permanent dye for subtle color refresh.",
+      "Maintain regular trims to prevent frizz and dryness.",
+      "Apply leave-in conditioners to manage coarse texture.",
+      "Complement gray with modern styles and fashion to avoid aging effect."
+    ],
+    "if_absent": "If no gray hair but aging look is desired, consider salt-and-pepper highlights or silvery tones in accessories or clothing for maturity aesthetic.",
+    "related_features": {
+      "Black_Hair": {
+        "importance": [
+          "Provides stark contrast when gray begins appearing.",
+          "Defines facial features through darkness and density.",
+          "Acts as a youthful counterbalance to gray strands.",
+          "Emphasizes eyebrow and lash prominence.",
+          "Changes how lighting interacts with the face."
+        ],
+        "how_to_improve": [
+          "Condition regularly to prevent dullness and split ends.",
+          "Use clarifying shampoos to prevent color buildup.",
+          "Avoid excessive heat to prevent fading or yellowing.",
+          "Blend early grays subtly with toning shampoos.",
+          "Trim layers to reflect light and add shine."
+        ],
+        "if_absent": "If black hair fades or is gone, explore warmer or ash tones to maintain hair structure visibility."
+      },
+      "Bald": {
+        "importance": [
+          "Gray coverage patterns can draw attention to remaining hair zones.",
+          "Different graying regions affect perception of age differently.",
+          "Hair loss combined with gray can either age or stylize a look.",
+          "Scalp reflection is more noticeable with lighter hair.",
+          "May change grooming habits or focal points of styling."
+        ],
+        "how_to_improve": [
+          "Blend scalp with micropigmentation if hair is sparse.",
+          "Trim remaining hair short and even for cleaner look.",
+          "Polish or exfoliate scalp to reduce dryness and flakes.",
+          "Grow facial hair to rebalance overall image.",
+          "Wear age-appropriate styles or accessories."
+        ],
+        "if_absent": "If baldness is not present, keep grays well-groomed and styled to avoid frizz or uneven patterns."
+      },
+      "Bushy_Eyebrows": {
+        "importance": [
+          "Gray brows can age the face more than scalp hair.",
+          "Disorganized brows distract from eye area clarity.",
+          "Can mismatch gray scalp hair tones if left untreated.",
+          "Influence expressions and perceived alertness.",
+          "Heavy brows become more pronounced with silver tones."
+        ],
+        "how_to_improve": [
+          "Trim or shape regularly to maintain symmetry.",
+          "Tint lightly to match scalp or beard tone.",
+          "Brush and condition with brow gel or balm.",
+          "Remove stray grays if needed for consistency.",
+          "Highlight arch subtly to lift eye area."
+        ],
+        "if_absent": "If brows are thin or missing, use pencils or microblading to restore expression and facial framing."
+      },
+      "Mustache": {
+        "importance": [
+          "Gray strands in the mustache stand out due to location.",
+          "Adds character and age symbolism to the upper lip.",
+          "Contrasts or complements scalp graying.",
+          "Affects how the mouth is perceived (youthful vs mature).",
+          "Changes how the mustache interacts with lip lines."
+        ],
+        "how_to_improve": [
+          "Use beard oil to soften and reduce wiriness.",
+          "Dye with semi-permanent tint for subtle blend.",
+          "Trim close to lip for neat shape.",
+          "Align color with rest of beard if present.",
+          "Use wax to control stray gray hairs."
+        ],
+        "if_absent": "If mustache is missing, maintain clean upper lip and use expressive eyewear or bold lip color for contrast."
+      },
+      "Sideburns": {
+        "importance": [
+          "Gray sideburns are among the first noticeable signs of aging.",
+          "They frame the face and affect profile view.",
+          "Can age or stylize depending on how they’re groomed.",
+          "Influence hairline and jawline perception.",
+          "Create a connection between scalp hair and beard."
+        ],
+        "how_to_improve": [
+          "Dye lightly if too contrasting with head or beard.",
+          "Trim regularly to avoid unruliness.",
+          "Match length and tone to hair/beard.",
+          "Keep edges defined and symmetrical.",
+          "Use tapering for more modern look."
+        ],
+        "if_absent": "If no sideburns, consider a clean fade or skin fade for a sharper transition between scalp and face."
+      }
+    }
+  },
+  "Receding_Hairline": {
+    "description": "Gradual loss of hair at temples.",
+    "importance": [
+      "Visually increases forehead size, altering perceived age.",
+      "Impacts face shape symmetry and balance.",
+      "Affects frame for facial features like eyes and eyebrows.",
+      "Can reduce style flexibility for haircuts.",
+      "Often associated with aging or stress, which can affect confidence."
+    ],
+    "how_to_improve": [
+      "Use hair fibers or concealers to fill thinning areas temporarily.",
+      "Apply DHT‑blocking shampoos or topical minoxidil (after consulting a dermatologist).",
+      "Opt for cropped or buzzed hairstyles that minimize contrast at the temples.",
+      "Explore hairline tattoos or scalp micropigmentation as semi‑permanent solutions.",
+      "Style hair forward or create volume at the crown to shift attention from hairline."
+    ],
+    "if_absent": "If you do not have a receding hairline, maintain hair health with regular scalp care and low‑stress grooming habits. Choose hairstyles that frame your face well to retain proportion.",
+    "related_features": {
+      "Bald": {
+        "importance": [
+          "Receding hairline is often an early sign of baldness.",
+          "The hairline’s progression helps predict the pattern of baldness.",
+          "Visual connection helps determine suitable hairstyles.",
+          "Both affect facial framing dramatically.",
+          "Working on one can inform proactive care for the other."
+        ],
+        "how_to_improve": [
+          "Consult early with a dermatologist to slow progression.",
+          "Monitor diet and nutrition that support hair health.",
+          "Reduce heat and chemical exposure to the scalp.",
+          "Massage scalp to stimulate follicles regularly.",
+          "Keep surrounding facial features (beard, brows) well‑groomed for compensation."
+        ],
+        "if_absent": "If baldness has not developed, focus on preventative care and consider short hairstyles that hide receding temples."
+      },
+      "5_o_Clock_Shadow": {
+        "importance": [
+          "Creates a focal point away from the top of the head.",
+          "Enhances jaw definition which balances higher forehead.",
+          "Adds texture and masculinity to soft upper facial areas.",
+          "Complements minimal hairstyles by adding contrast.",
+          "Can reshape perception of face length."
+        ],
+        "how_to_improve": [
+          "Maintain stubble length using a precision trimmer every 2‑3 days.",
+          "Define neckline and cheek line for cleaner appearance.",
+          "Apply moisturizer to prevent skin irritation underneath.",
+          "Fade stubble slightly into sideburns for cohesion.",
+          "Experiment with slightly denser shadow to increase contrast with scalp."
+        ],
+        "if_absent": "Grow short stubble or experiment with a defined beard style to anchor lower face. Alternatively, use glasses or headwear to shift attention."
+      },
+      "Bushy_Eyebrows": {
+        "importance": [
+          "Visually balance an enlarged forehead.",
+          "Draw attention back to the eyes.",
+          "Enhance masculinity or bold facial expression.",
+          "Compensate for loss of framing from temples.",
+          "Add structure and symmetry."
+        ],
+        "how_to_improve": [
+          "Keep eyebrows full, but tidy around edges.",
+          "Brush brows upward with gel to enhance thickness.",
+          "Trim long hairs for uniformity.",
+          "Avoid over‑plucking; maintain natural density.",
+          "Use brow pencil or powder for sparse areas."
+        ],
+        "if_absent": "Use glasses or longer sideburns to enhance facial framing. Keep hair volume on the crown to reduce vertical space above eyes."
+      },
+      "Oval_Face": {
+        "importance": [
+          "An oval face is considered ideal and versatile for hairstyles.",
+          "Hairline recession may stretch the face vertically.",
+          "Changes how the face is perceived from front and side.",
+          "Can push facial shape toward rectangular or oblong.",
+          "Maintaining balance helps preserve ideal symmetry."
+        ],
+        "how_to_improve": [
+          "Choose hairstyles that add width to the sides of the head.",
+          "Avoid tight fades that exaggerate vertical length.",
+          "Consider facial hair to shorten visual face length.",
+          "Add volume at mid‑crown for proportion.",
+          "Use glasses to visually narrow longer forehead."
+        ],
+        "if_absent": "Use haircut techniques to simulate oval shape—slight fringe or textured layers to taper the forehead region."
+      },
+      "Sideburns": {
+        "importance": [
+          "Frame the face even when hairline recedes.",
+          "Connect upper and lower facial hair for continuity.",
+          "Create balance between temples and jaw.",
+          "Offset hairline height by drawing focus lower.",
+          "Blend transitions between receded temple and face."
+        ],
+        "how_to_improve": [
+          "Keep sideburns short and sharp to reduce contrast.",
+          "Blend length with haircut or fade to soften edge.",
+          "Maintain matching density with top of beard or head hair.",
+          "Keep lines crisp and close to ear.",
+          "Add facial hair below (goatee) for proportional emphasis."
+        ],
+        "if_absent": "If sideburns are not grown, keep beard and haircut transitions seamless. Try eyeglass frames that extend toward temples for visual structure."
+      }
+    }
+  },
+  "Sideburns": {
+    "description": "Strips of hair between temples and beard.",
+    "importance": [
+      "Provide connection between scalp hair and facial hair.",
+      "Frame the face and help define jawline.",
+      "Balance the side of the face when hair is styled upward.",
+      "Help maintain visual proportion on bald or short haircuts.",
+      "Can soften or sharpen appearance depending on shape."
+    ],
+    "how_to_improve": [
+      "Trim sideburns to align with mid‑ear or lobe for balanced look.",
+      "Match sideburn length and density to haircut or facial hair.",
+      "Use a fade to blend seamlessly into the beard or scalp.",
+      "Keep edges crisp and symmetrical on both sides.",
+      "Regularly condition and comb to maintain neat texture."
+    ],
+    "if_absent": "If you don’t have sideburns, emphasize balance by grooming other facial hair elements (e.g., goatee or mustache). Consider longer temple fades or skin blends to create visual transitions.",
+    "related_features": {
+      "5_o_Clock_Shadow": {
+        "importance": [
+          "Blends facial hair into the temple area.",
+          "Enhances lower face contrast.",
+          "Improves cohesion between scalp and jawline.",
+          "Adds masculinity and texture.",
+          "Supports facial framing when sideburns are trimmed short."
+        ],
+        "how_to_improve": [
+          "Fade sideburns gradually into stubble with a trimmer.",
+          "Keep beard line symmetrical for neatness.",
+          "Moisturize stubble to avoid flaking at temple area.",
+          "Blend from cheekbone down for smooth transition.",
+          "Add definition with a precision trimmer or guard."
+        ],
+        "if_absent": "Keep temple region cleanly shaven and defined. If full beard is present, shape its edge upward toward ear to simulate sideburn."
+      },
+      "Bald": {
+        "importance": [
+          "Sideburns become more prominent against bald scalp.",
+          "Provide contrast and frame the ear area.",
+          "Can reduce visual severity of full baldness.",
+          "Anchor beard styles in absence of head hair.",
+          "Help define head‑to‑face transition cleanly."
+        ],
+        "how_to_improve": [
+          "Shape sideburns sharply to contrast with shaved scalp.",
+          "Keep symmetrical length and angle on both sides.",
+          "Fade into beard or taper to skin for smooth profile.",
+          "Avoid overly long or unruly edges for balance.",
+          "Use beard oil or balm to maintain healthy look."
+        ],
+        "if_absent": "Use defined beard or eyewear to frame face sides. Shave sides cleanly for a polished bald look."
+      },
+      "Receding_Hairline": {
+        "importance": [
+          "Sideburns help define facial edge when hairline moves back.",
+          "Create balance between temples and jaw.",
+          "Offset hairline height by drawing focus lower.",
+          "Help maintain consistent frame despite recession.",
+          "Blend transitions between receded temple and face."
+        ],
+        "how_to_improve": [
+          "Keep sideburns short and sharp to reduce contrast.",
+          "Blend length with haircut or fade to soften edge.",
+          "Maintain matching density with top of beard or head hair.",
+          "Keep lines crisp and close to ear.",
+          "Add facial hair below (goatee) for proportional emphasis."
+        ],
+        "if_absent": "Use angled beard styles or layered haircuts to restore balance between forehead and jaw."
+      },
+      "Goatee": {
+        "importance": [
+          "Visually anchors lower face.",
+          "Pairs with sideburns to create full framing.",
+          "Adds contrast to upper head if bald or buzzed.",
+          "Shapes chin and jaw definition.",
+          "Helps balance long or oval faces."
+        ],
+        "how_to_improve": [
+          "Align width of goatee with sideburn taper.",
+          "Keep edges defined with frequent trimming.",
+          "Use guard combs for consistent length.",
+          "Blend mustache into chin for cohesive look.",
+          "Match sideburn tone and texture if colored."
+        ],
+        "if_absent": "Grow a short beard or mustache to maintain visual weight on the lower face. Alternatively, style with accessories like sunglasses or collars to draw focus."
+      },
+      "Mustache": {
+        "importance": [
+          "Connects horizontal facial elements.",
+          "Adds character and expressiveness.",
+          "Balances top facial features like eyes and brows.",
+          "Helps complete facial hair styles involving sideburns.",
+          "Can enhance lip and smile aesthetics."
+        ],
+        "how_to_improve": [
+          "Maintain same thickness as sideburns for harmony.",
+          "Shape according to lip curve.",
+          "Use comb and wax to style daily.",
+          "Avoid overgrowing over upper lip.",
+          "Trim edges in line with sideburn transitions."
+        ],
+        "if_absent": "Consider stubble or trimmed beard instead. Style eyewear or headwear to draw upper‑face focus."
+      }
+    }
+  },
+  "Wearing_Hat": {
+    "description": "Donning any type of headwear.",
+    "importance": [
+      "Can conceal hair issues like thinning or baldness.",
+      "Adds personality and flair to appearance.",
+      "Shapes perception of face size and structure.",
+      "Complements face shape when matched correctly.",
+      "Shifts attention from forehead or scalp to accessories."
+    ],
+    "how_to_improve": [
+      "Choose hat shapes (caps, fedoras, beanies) that complement face structure.",
+      "Avoid overly tight or loose fits to maintain balance.",
+      "Match hat color with outfit or contrast skin/hair tone.",
+      "Tilt or adjust brim to control focus direction.",
+      "Keep hat clean and wrinkle‑free for neatness."
+    ],
+    "if_absent": "If not wearing hats, use hairstyle, glasses, or facial hair to add personality and structure. Opt for wardrobe pieces (scarves, collars) to frame face.",
+    "related_features": {
+      "Receding_Hairline": {
+        "importance": [
+          "Hats can hide temple recession or large foreheads.",
+          "Provide coverage during bad hair days.",
+          "Offer style choices when hair volume is low.",
+          "Act as a confidence tool in transitional periods.",
+          "Help delay exposure to sun and scalp damage."
+        ],
+        "how_to_improve": [
+          "Choose caps that curve low across the forehead.",
+          "Try beanies that drape backward to soften temple lines.",
+          "Match hat texture with outfit (e.g., wool, denim).",
+          "Remove hat regularly to allow scalp to breathe.",
+          "Avoid tight fits that tug at remaining hair."
+        ],
+        "if_absent": "Use hair styling techniques or fibers to camouflage hairline instead. Groom eyebrows or grow stubble to define face without a hat."
+      },
+      "Bald": {
+        "importance": [
+          "Hats offer full coverage of scalp.",
+          "Protect against sunburn or cold exposure.",
+          "Add versatility to bald style expression.",
+          "Allow seasonal expression (caps in summer, beanies in winter).",
+          "Improve overall head proportion visually."
+        ],
+        "how_to_improve": [
+          "Choose sleek, fitted styles like baseball caps or short‑brimmed fedoras.",
+          "Wear colors that contrast scalp or outfit.",
+          "Avoid floppy hats unless coordinated with entire outfit.",
+          "Keep hat inner lining clean to avoid irritation.",
+          "Rotate hat styles to avoid pressure points on scalp."
+        ],
+        "if_absent": "If bald and not wearing a hat, polish the scalp for shine or add contrast via sunglasses or beard styles."
+      },
+      "Black_Hair": {
+        "importance": [
+          "Hat color can enhance or clash with black hair.",
+          "Dark hair with dark hat can dull face unless offset.",
+          "Light hats create visual break and draw focus upward.",
+          "Right hat makes hair look denser and styled.",
+          "Frame contrast affects perceived brightness of facial features."
+        ],
+        "how_to_improve": [
+          "Use lighter or neutral hats with dark hair for contrast.",
+          "Avoid hats with black brims if your hair is dark.",
+          "Match hat tone to skin undertone rather than hair.",
+          "Choose textures like canvas or wool for volume.",
+          "Pair with bright accessories (scarves, glasses) for face pop."
+        ],
+        "if_absent": "Use hair highlights or part lines to create visual structure if no hat is worn."
+      },
+      "Smiling": {
+        "importance": [
+          "Smile enhances casual or playful hat styles.",
+          "Brings energy and approachability to the look.",
+          "Adds definition to cheeks when framed by a hat.",
+          "Offsets shadowing from hat brim.",
+          "Makes hat feel like a natural part of expression."
+        ],
+        "how_to_improve": [
+          "Practice smiling with hat to adjust angles.",
+          "Maintain good oral hygiene to support confident smile.",
+          "Pair upward‑tilted hats with bright expressions.",
+          "Coordinate hat style (casual vs. formal) with mood.",
+          "Capture practice photos to refine hat‑smile pairing."
+        ],
+        "if_absent": "Use facial grooming or expressive accessories (necklaces, collars) to carry personality if smile is subtle."
+      },
+      "Eyeglasses": {
+        "importance": [
+          "Hat brims can clash or complement glasses.",
+          "Together they shape upper‑face geometry.",
+          "Bad angles can create visual clutter.",
+          "Proper pairing balances upper facial attention.",
+          "Frames and brim can both guide eye movement."
+        ],
+        "how_to_improve": [
+          "Tilt hat slightly back to avoid touching glasses.",
+          "Choose thinner frames if hat brim is wide.",
+          "Keep glasses clean to avoid reflection under brim.",
+          "Avoid heavy hats with oversized frames.",
+          "Coordinate color scheme between frame and hat."
+        ],
+        "if_absent": "If not using glasses, hats can carry upper‑face structure solo—choose wide brims or high crowns to add definition."
+      }
+    }
+  },
+  "Wearing_Necktie": {
+  "description": "Sporting a formal tie around the collar, often associated with business, ceremony, or polished attire.",
+  "importance": [
+    "Signals authority, discipline, and professionalism in formal or business settings.",
+    "Draws attention to the vertical center of the body, enhancing posture and symmetry.",
+    "Helps elongate the torso, especially useful for shorter necks or broader faces.",
+    "Adds color and pattern contrast, bringing visual interest to the outfit.",
+    "Establishes hierarchy in social or professional environments."
+  ],
+  "how_to_improve": [
+    "Master at least three tie knots (e.g., Windsor, Half-Windsor, Four-in-Hand) to adapt to collar types and formality.",
+    "Ensure the tie tip reaches the top of the belt buckle—too short or long disrupts proportions.",
+    "Coordinate tie color with hair, skin tone, and shirt—cool tones for cool skin, warm for warm.",
+    "Use tie bars or clips sparingly to add polish and keep tie in place.",
+    "Avoid novelty prints; opt for timeless patterns (solid, diagonal stripe, subtle geometric) for versatility."
+  ],
+  "if_absent": "If a necktie is not worn, ensure the collar is crisp and the neckline clean. Opt for alternatives like mandarin collars, crew necks with blazers, or well-fitted turtlenecks to maintain a composed look. Use color layering (jacket, shirt contrast) to create vertical structure visually.",
+  "related_features": {
+    "Wearing_Hat": {
+      "importance": [
+        "Headwear with a necktie can send mixed visual cues between casual and formal.",
+        "May interfere with balance of formality if the hat is too sporty or rugged."
+      ],
+      "how_to_improve": [
+        "Avoid wearing hats with neckties unless the hat is formal (e.g., fedora with a suit).",
+        "Remove hat indoors in formal settings.",
+        "Choose structured hats with minimal logos or texture when needed.",
+        "Match hat color to belt or shoes to create outfit harmony.",
+        "Ensure the hat's shape does not overly contrast with tie symmetry (e.g., avoid floppy brims)."
+      ],
+      "if_absent": "If not wearing a hat, make sure hairstyle is clean and styled to support a polished appearance."
+    },
+    "Eyeglasses": {
+      "importance": [
+        "Eyeglasses and neckties both draw visual weight to the face and chest.",
+        "Color and shape of frames can clash or enhance tie choice."
+      ],
+      "how_to_improve": [
+        "Choose glasses frames that match or contrast tastefully with tie color (e.g., dark frames with lighter tie).",
+        "Avoid overly bold frames with patterned ties.",
+        "Keep lenses clean and scratch-free to retain professional appearance.",
+        "Coordinate metal accents between glasses, tie bars, and belt buckle.",
+        "Ensure frame width aligns with face shape to avoid overwhelming proportions."
+      ],
+      "if_absent": "If eyeglasses aren't worn, consider accessorizing with a sleek watch or lapel pin to maintain a balanced aesthetic."
+    },
+    "Smiling": {
+      "importance": [
+        "A smile softens the formal intensity of a tie, making one appear more approachable.",
+        "Balances stern or rigid outfits by adding natural charisma."
+      ],
+      "how_to_improve": [
+        "Practice relaxed, genuine smiles in front of a mirror.",
+        "Keep teeth clean and breath fresh to feel confident smiling.",
+        "Smile subtly during formal photos to avoid stiffness.",
+        "Engage eye muscles slightly (Duchenne smile) for authenticity.",
+        "Use posture and smiling together to project confidence."
+      ],
+      "if_absent": "Without a smile, you may appear overly stern—compensate with warmer colors or softer patterns in the tie."
+    },
+    "Blond_Hair": {
+      "importance": [
+        "Light hair can make brightly colored or pastel ties stand out.",
+        "Contrast between hair and tie draws the eye upward."
+      ],
+      "how_to_improve": [
+        "Choose ties in cooler tones like sky blue, silver, lavender, or slate.",
+        "Avoid overly saturated warm colors which may clash.",
+        "Select subtle patterns over loud contrasts to maintain elegance.",
+        "Use matte or textured ties to balance shine of blond hair.",
+        "Coordinate jacket or pocket square to maintain cohesion."
+      ],
+      "if_absent": "For those without blond hair, try soft grays, navies, or burgundy ties for universal appeal."
+    },
+    "Brown_Hair": {
+      "importance": [
+        "Warm tones in brown hair pair well with earthy or jewel-toned ties.",
+        "Complements natural palette, creating visual cohesion."
+      ],
+      "how_to_improve": [
+        "Select tie colors like burgundy, olive, mustard, or burnt orange.",
+        "Avoid neon or overly bright hues that can overshadow natural tones.",
+        "Coordinate tie with eye color or skin tone for added harmony.",
+        "Use textures like knit or wool in fall/winter for depth.",
+        "Match tie with shoes or belt to anchor the outfit."
+      ],
+      "if_absent": "If you don’t have brown hair, choose ties that match your hair's undertone—cool vs. warm—for balance."
+    }
+  }
+},
+"Arched_Eyebrows": {
+  "description": "Eyebrows that have a noticeable curve or arch, creating a lifted appearance to the eyes.",
+  "importance": "Accentuates the eyes, gives a more defined facial structure, and can create a youthful and alert look.",
+  "how_to_improve": [
+    "Shape eyebrows by removing stray hairs under the arch using tweezers or threading.",
+    "Use an eyebrow pencil or powder to enhance the arch naturally.",
+    "Avoid over-plucking, and let sparse areas grow back.",
+    "Brush brows upward and outward with brow gel to hold shape.",
+    "Get professional shaping if unsure about best arch for your face."
+  ],
+  "if_absent": "Straight or flat brows can give a softer look. Consider subtle lifting with makeup or reshaping over time for more expression.",
+  "related_features": {
+    "Heavy_Makeup": {
+      "importance": "Helps accentuate brows through contouring and highlighting.",
+      "how_to_improve": [
+        "Use brow highlighter just below the arch for lift.",
+        "Avoid over-darkening which may appear harsh.",
+        "Combine with light eye makeup to keep focus on brows."
+      ],
+      "if_absent": "Natural look can work well if brows are naturally defined. Focus on clear skin and symmetry."
+    },
+    "High_Cheekbones": {
+      "importance": "Enhances the overall sculpted effect when paired with arched brows.",
+      "how_to_improve": [
+        "Use blush just below the cheekbones to emphasize structure.",
+        "Highlight top of cheekbones to complement brow lift.",
+        "Smile slightly while applying to find natural contour."
+      ],
+      "if_absent": "Soft contouring can mimic the look. Keep brows lifted to draw attention upward."
+    }
+  }
+},
+"Bangs": {
+  "description": "Hair cut and styled to fall across the forehead, either straight or side-swept.",
+  "importance": "Frames the face, emphasizes eyes, softens forehead, and can give a youthful or edgy appearance depending on style.",
+  "how_to_improve": [
+    "Choose a bang style that suits your face shape—blunt for oval, side-swept for round, wispy for square.",
+    "Trim regularly to maintain length just above eyes.",
+    "Use a round brush and blow dryer to keep volume and shape.",
+    "Apply lightweight styling products to prevent flatness or oiliness.",
+    "Avoid harsh lines—blend bangs into side layers if needed."
+  ],
+  "if_absent": "Forehead is fully visible, so ensure skin tone is even and consider parting hair in a flattering way (center, side, etc.).",
+  "related_features": {
+    "Wavy_Hair": {
+      "importance": "Pairs naturally with wispy or curtain bangs for a relaxed, soft look.",
+      "how_to_improve": [
+        "Let hair air-dry for natural texture.",
+        "Use a curling iron to gently wave bangs if they are too straight.",
+        "Use texturizing spray for lift and volume."
+      ],
+      "if_absent": "Straight or sleek hair can give a bold, polished vibe—just ensure frizz is managed."
+    },
+    "Smiling": {
+      "importance": "Bangs draw attention to the eyes and upper face, so a warm smile complements the look beautifully.",
+      "how_to_improve": [
+        "Practice natural, relaxed smiles in the mirror.",
+        "Keep lips moisturized and teeth clean for confidence.",
+        "Avoid forced smiles—genuine expression boosts attractiveness."
+      ],
+      "if_absent": "Bangs can still frame the face attractively, but expression helps bring liveliness to the look."
+    },
+    "Rosy_Cheeks": {
+      "importance": "Adds color balance when bangs obscure the upper face slightly.",
+      "how_to_improve": [
+        "Apply light pink or peach blush to apples of cheeks.",
+        "Blend upwards toward temples to mimic natural flush.",
+        "Smile while applying for precision placement."
+      ],
+      "if_absent": "Ensure skin is even-toned; consider subtle highlighter instead to maintain freshness."
+    }
+  }
+},
+"Big_Lips": {
+  "description": "Fuller lips with prominent volume and definition, typically drawing attention to the mouth area.",
+  "importance": "Enhances facial symmetry, perceived sensuality, and contributes to an expressive and youthful appearance.",
+  "how_to_improve": [
+    "Exfoliate lips regularly using a lip scrub or soft toothbrush.",
+    "Apply lip plumper glosses containing cinnamon or peppermint oil.",
+    "Use a lip liner slightly outside the natural lip line to create a fuller illusion.",
+    "Hydrate lips daily with balm containing hyaluronic acid or shea butter.",
+    "Practice facial exercises to tone the surrounding lip muscles."
+  ],
+  "if_absent": "Focus on lip definition using makeup—highlight cupid’s bow and use gloss in the center to mimic fullness. Confidence and smile have a greater impact than size alone.",
+  "related_features": {
+    "Wearing_Lipstick": {
+      "importance": "Accentuates lip shape and draws attention to the mouth.",
+      "how_to_improve": [
+        "Choose shades that complement skin tone (e.g., pinks, reds, berries).",
+        "Use matte formulas for bold definition or gloss for enhanced volume.",
+        "Outline lips with a liner to avoid smudging.",
+        "Highlight the center of lower lip with lighter shade to add dimension.",
+        "Reapply after meals to maintain polish."
+      ],
+      "if_absent": "A natural lip can still look polished with balm. Balance look by focusing on eyes or skin glow."
+    },
+    "Smiling": {
+      "importance": "Makes lips appear more prominent and adds approachability to facial expression.",
+      "how_to_improve": [
+        "Maintain dental hygiene and natural lip care.",
+        "Practice gentle smiling to avoid strain or stiffness.",
+        "Confidence enhances the effect—wear your smile like makeup."
+      ],
+      "if_absent": "Even without frequent smiling, soft eye contact and lip movement in expression can enhance presence."
+    },
+    "Rosy_Cheeks": {
+      "importance": "Adds balance and harmony to lower face when lips are the focal point.",
+      "how_to_improve": [
+        "Apply blush to the apples of the cheeks blending outward.",
+        "Choose a shade that complements your lipstick tone.",
+        "Use cream blushes for a dewy finish."
+      ],
+      "if_absent": "Use bronzer or highlighter to add subtle structure if avoiding blush. Keep skin tone even."
+    }
+  }
+},
+"Blond_Hair": {
+  "description": "Hair that ranges in color from light golden to pale platinum tones, often associated with brightness and vibrancy.",
+  "importance": "Adds visual softness, youthful brightness, and high contrast with features—especially eyes and lips.",
+  "how_to_improve": [
+    "Use purple shampoo weekly to prevent brassiness and maintain tone.",
+    "Deep condition regularly to combat dryness and breakage.",
+    "Trim ends every 6-8 weeks to keep hair healthy and fresh.",
+    "Avoid excessive heat styling—use a heat protectant if needed.",
+    "Consult a colorist for personalized shades that match your skin undertone."
+  ],
+  "if_absent": "Darker hair can still frame the face beautifully. Consider highlights or balayage for dimension without going full blonde.",
+  "related_features": {
+    "Wavy_Hair": {
+      "importance": "Adds texture and movement to blonde tones, enhancing light reflection.",
+      "how_to_improve": [
+        "Use a sea salt spray for natural waves.",
+        "Braid damp hair and let it dry overnight for heat-free texture.",
+        "Avoid heavy products that weigh down light hair."
+      ],
+      "if_absent": "Straight blonde hair can appear sleek and elegant—just ensure shine and frizz control."
+    },
+    "Arched_Eyebrows": {
+      "importance": "Creates facial contrast and sharpness to balance softness of blonde tones.",
+      "how_to_improve": [
+        "Define brows with a slightly darker shade than hair for contrast.",
+        "Use brow gel to hold shape and structure.",
+        "Shape regularly to maintain arch without over-thinning."
+      ],
+      "if_absent": "Straight or light brows give a softer look. Use clear gel for grooming if color is subtle."
+    },
+    "High_Cheekbones": {
+      "importance": "Frame the face when hair color draws attention to bone structure.",
+      "how_to_improve": [
+        "Highlight cheekbones with a champagne or gold shimmer.",
+        "Use contour just below to enhance natural lift.",
+        "Smile slightly during application for better precision."
+      ],
+      "if_absent": "Soft makeup around cheeks can still mimic structure. Avoid flat, pale lighting in photography."
+    }
+  }
+},
+"No_Beard": {
+  "description": "Absence of facial hair, contributing to a smooth and clear facial appearance.",
+  "importance": "Enhances skin visibility, providing a clean and youthful look often associated with femininity.",
+  "how_to_improve": [
+    "Maintain regular facial cleansing to keep skin clear and healthy.",
+    "Use gentle exfoliation to prevent clogged pores.",
+    "Apply moisturizer daily to maintain skin hydration.",
+    "Consider laser hair removal or waxing if facial hair is present and unwanted.",
+    "Protect skin with sunscreen to avoid irritation or darkening."
+  ],
+  "if_absent": "If some facial hair is present, grooming and skin care can minimize its appearance.",
+  "related_features": {
+    "Rosy_Cheeks": {
+      "importance": "Adds a healthy flush that contrasts nicely with smooth skin.",
+      "how_to_improve": [
+        "Apply light blush or use natural remedies to enhance cheek color.",
+        "Maintain hydration for a natural glow."
+      ],
+      "if_absent": "Use bronzers or highlighters to add warmth and dimension."
+    },
+    "Heavy_Makeup": {
+      "importance": "Can be used to emphasize smooth skin and create artistic looks.",
+      "how_to_improve": [
+        "Use primers to smooth skin texture before makeup.",
+        "Choose foundations that provide even coverage without clogging pores."
+      ],
+      "if_absent": "Natural makeup enhances the clean skin look."
+    }
+  }
+},
+"Oval_Face": {
+  "description": "A face shape characterized by balanced proportions with slightly wider cheekbones tapering to a rounded chin.",
+  "importance": "Considered ideal or versatile for many hairstyles and makeup styles due to its balanced shape.",
+  "how_to_improve": [
+    "Use contouring to enhance cheekbones and jawline subtly.",
+    "Choose hairstyles that highlight the natural shape.",
+    "Maintain skin tone balance with proper skincare.",
+    "Practice facial exercises for muscle tone.",
+    "Wear glasses or accessories that complement face shape."
+  ],
+  "if_absent": "Other face shapes can be enhanced using contouring and styling techniques to mimic an oval shape.",
+  "related_features": {
+    "Smiling": {
+      "importance": "Softens the facial features, enhancing the natural balance.",
+      "how_to_improve": [
+        "Practice genuine smiles to lift facial muscles.",
+        "Maintain dental hygiene for confidence."
+      ],
+      "if_absent": "Relaxed expressions can also complement face shape."
+    },
+    "Hairstyles": {
+      "importance": "Frames the face and enhances perceived shape.",
+      "how_to_improve": [
+        "Try layers or side-swept bangs to highlight cheekbones.",
+        "Avoid styles that add too much width at the forehead."
+      ],
+      "if_absent": "Simple styles can maintain facial harmony."
+    }
+  }
+},
+"Pointy_Nose": {
+  "description": "A nose shape characterized by a sharp, narrow tip and defined bridge.",
+  "importance": "Adds distinctive character and elegance to facial profiles, often associated with refinement.",
+  "how_to_improve": [
+    "Use contouring makeup to soften or accentuate the nose shape.",
+    "Maintain skin care to keep the nose area clear and smooth.",
+    "Avoid heavy makeup buildup on the nose to prevent clogging pores.",
+    "Practice facial exercises to tone surrounding muscles.",
+    "Consider professional advice for non-surgical aesthetic enhancements if desired."
+  ],
+  "if_absent": "Less pronounced nose shapes can be balanced with makeup and hairstyle choices.",
+  "related_features": {
+    "High_Cheekbones": {
+      "importance": "Works well with a pointy nose to create facial definition.",
+      "how_to_improve": [
+        "Highlight cheekbones to complement the nose.",
+        "Use blush and contour strategically."
+      ],
+      "if_absent": "Makeup can simulate cheekbone prominence."
+    },
+    "Rosy_Cheeks": {
+      "importance": "Adds warmth to the facial complexion, balancing sharp nose features.",
+      "how_to_improve": [
+        "Use warm blush tones on cheeks.",
+        "Apply lightly for a natural finish."
+      ],
+      "if_absent": "Bronzer or highlighter can substitute."
+    }
+  }
+},
+"Rosy_Cheeks": {
+  "description": "A natural flush of color on the cheeks that gives a healthy and youthful appearance.",
+  "importance": "Adds warmth and vibrancy to the face, making skin look fresh and lively.",
+  "how_to_improve": [
+    "Maintain good hydration to keep skin glowing.",
+    "Use light blush or natural remedies like beetroot juice to enhance cheek color.",
+    "Follow a balanced diet rich in vitamins and antioxidants.",
+    "Regular facial massages to improve blood circulation.",
+    "Avoid excessive sun exposure to prevent redness or irritation."
+  ],
+  "if_absent": "Use makeup techniques such as blush or bronzer to add color and dimension to the cheeks.",
+  "related_features": {
+    "Smiling": {
+      "importance": "Enhances the rosy effect by lifting cheek muscles and creating natural highlights.",
+      "how_to_improve": [
+        "Practice smiling regularly to tone facial muscles.",
+        "Maintain good dental hygiene for a confident smile."
+      ],
+      "if_absent": "Relaxed expressions can still complement rosy cheeks."
+    },
+    "Oval_Face": {
+      "importance": "A balanced face shape helps highlight rosy cheeks effectively.",
+      "how_to_improve": [
+        "Use contouring to subtly emphasize cheekbones.",
+        "Choose hairstyles that frame the face well."
+      ],
+      "if_absent": "Other face shapes can use makeup to mimic this balance."
+    }
+  }
+},
+"Smiling": {
+  "description": "A facial expression involving the upward curving of the lips, which conveys friendliness and positivity.",
+  "importance": "Softens facial features and enhances overall attractiveness by adding warmth and approachability.",
+  "how_to_improve": [
+    "Practice genuine smiles to engage facial muscles naturally.",
+    "Maintain dental health for a confident appearance.",
+    "Relax facial muscles to avoid tension.",
+    "Use lip care products to keep lips smooth and healthy.",
+    "Engage in positive social interactions to foster natural smiles."
+  ],
+  "if_absent": "Neutral expressions are still effective but may seem less inviting.",
+  "related_features": {
+    "Rosy_Cheeks": {
+      "importance": "Smiling accentuates the natural flush on the cheeks.",
+      "how_to_improve": [
+        "Smile often to enhance cheek color.",
+        "Use light blush to highlight the effect."
+      ],
+      "if_absent": "Blush and contouring can help simulate this effect."
+    },
+    "Oval_Face": {
+      "importance": "Face shape can influence the visual impact of a smile.",
+      "how_to_improve": [
+        "Use makeup and hairstyles that complement facial structure.",
+        "Practice expressions that suit your face shape."
+      ],
+      "if_absent": "Other shapes can also smile beautifully with proper care."
+    }
+  }
+},
+"Wavy_Hair": {
+  "description": "Hair texture characterized by natural waves that add volume and movement.",
+  "importance": "Adds softness and dimension to the face, enhancing overall attractiveness.",
+  "how_to_improve": [
+    "Use moisturizing shampoos and conditioners to keep waves defined.",
+    "Apply curl-enhancing creams or mousses to maintain wave structure.",
+    "Avoid excessive heat styling to prevent damage.",
+    "Regular trims to prevent split ends and maintain shape.",
+    "Air dry or use diffusers to keep natural wave patterns intact."
+  ],
+  "if_absent": "Use styling tools or products to create soft waves for added texture and volume.",
+  "related_features": {
+    "Blond_Hair": {
+      "importance": "Wavy texture adds dimension and light reflection to blonde hair.",
+      "how_to_improve": [
+        "Use purple shampoos to maintain blonde tone.",
+        "Protect hair from UV damage."
+      ],
+      "if_absent": "Straight blonde hair can be styled with waves for added appeal."
+    }
+  }
+},
+"Wearing_Earrings": {
+  "description": "The act of adorning the ears with jewelry to complement facial features.",
+  "importance": "Draws attention to the face and adds a touch of elegance or personality.",
+  "how_to_improve": [
+    "Choose earrings that suit your face shape and hairstyle.",
+    "Keep earrings clean and well-maintained.",
+    "Mix and match styles for different occasions.",
+    "Consider hypoallergenic materials for sensitive skin.",
+    "Coordinate earrings with other accessories for a cohesive look."
+  ],
+  "if_absent": "Other accessories or hairstyles can highlight facial features if earrings are not worn.",
+  "related_features": {
+    "Wearing_Necklace": {
+      "importance": "Complements earrings and balances overall look.",
+      "how_to_improve": [
+        "Choose necklaces that coordinate with earrings.",
+        "Adjust necklace length to suit neckline."
+      ],
+      "if_absent": "Focus on earrings to make a statement."
+    }
+  }
+},
+"Wearing_Lipstick": {
+  "description": "Applying color to the lips to enhance their appearance and express style.",
+  "importance": "Adds definition, color, and can transform facial expressions, boosting confidence.",
+  "how_to_improve": [
+    "Choose lipstick shades that complement skin tone.",
+    "Prep lips with balm or exfoliation before application.",
+    "Use lip liner for precise edges and longer-lasting wear.",
+    "Reapply as needed to maintain vibrancy.",
+    "Experiment with finishes like matte, glossy, or satin."
+  ],
+  "if_absent": "Natural lip color can be enhanced with gloss or balm for a subtle look.",
+  "related_features": {
+    "Smiling": {
+      "importance": "Lipstick enhances the visual impact of a smile.",
+      "how_to_improve": [
+        "Practice smiling naturally to showcase lipstick.",
+        "Use moisturizing lipsticks to keep lips comfortable."
+      ],
+      "if_absent": "Neutral lips still look great with a genuine smile."
+    }
+  }
+}
+}
